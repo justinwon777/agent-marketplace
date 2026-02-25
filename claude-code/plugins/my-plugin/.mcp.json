@@ -123,7 +123,7 @@
         "args": [
         "~/bazel-central-registry/tools/mcp_server.py"
         ],
-        "command": "/opt/homebrew/bin/python3.11",
+        "command": "python3",
         "cwd": "~/bazel-central-registry/tools",
         "timeout": 10000,
         "trusted": true
