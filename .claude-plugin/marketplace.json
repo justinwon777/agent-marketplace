@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "agent-marketplace",
+  "version": "1.0.0",
+  "description": "plugin for me",
+  "owner": {
+    "name": "Justin Won",
+    "email": "justin.won@uber.com"
+  },
+  "plugins": [
+    {
+      "name": "my-plugin",
+      "source": "./claude-code/plugins/my-plugin",
+      "description": "my plugin"
+    }
+  ]
+}
