@@ -118,14 +118,5 @@
         "usearch-gen-ai-backend"
       ],
       "type": "stdio"
-    },
-    "BCR": {
-        "args": [
-        "~/bazel-central-registry/tools/mcp_server.py"
-        ],
-        "command": "python3",
-        "cwd": "~/bazel-central-registry/tools",
-        "timeout": 10000,
-        "trusted": true
     }
 }

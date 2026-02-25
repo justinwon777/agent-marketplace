@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "agent-marketplace",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "plugin for me",
   "owner": {
     "name": "Justin Won",
