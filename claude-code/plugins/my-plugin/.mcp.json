@@ -5,17 +5,7 @@
         "mcp",
         "run",
         "--install",
-        "buildkite-mcp-server"
-      ],
-      "type": "stdio"
-    },
-    "code-mcp": {
-      "command": "aifx",
-      "args": [
-        "mcp",
-        "run",
-        "--install",
-        "code-mcp"
+        "buildkite"
       ],
       "type": "stdio"
     },
@@ -35,7 +25,7 @@
         "mcp",
         "run",
         "--install",
-        "github-mcp-server"
+        "github"
       ],
       "type": "stdio"
     },
@@ -69,13 +59,13 @@
       ],
       "type": "stdio"
     },
-    "sg-mcp-server": {
+    "sourcegraph-mcp": {
       "command": "aifx",
       "args": [
         "mcp",
         "run",
         "--install",
-        "sg-mcp-server"
+        "sourcegraph-mcp"
       ],
       "type": "stdio"
     },
