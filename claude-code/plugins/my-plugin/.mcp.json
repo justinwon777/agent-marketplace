@@ -39,6 +39,16 @@
       ],
       "type": "stdio"
     },
+    "minion-orchestrator": {
+      "command": "aifx",
+      "args": [
+        "mcp",
+        "run",
+        "--install",
+        "minion-orchestrator"
+      ],
+      "type": "stdio"
+    },
     "querybuilder-copilot": {
       "command": "aifx",
       "args": [
